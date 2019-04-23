@@ -1,0 +1,5 @@
+.paket/
+bin/
+obj/
+symbolCache.db
+paket-files/
